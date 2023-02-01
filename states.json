@@ -16,6 +16,288 @@
       "code": "ca",
       "years": "12",
       "months": "9"
+    },
+    {
+      "value": "13.58",
+      "code": "ma",
+      "years": "13",
+      "months": "7"
+    },
+    {
+      "value": "14.08",
+      "code": "ak",
+      "years": "14",
+      "months": "1"
+    },
+    {
+      "value": "14.16",
+      "code": "md",
+      "years": "14",
+      "months": "2"
+    },
+    {
+      "value": "14.33",
+      "code": "or",
+      "years": "14",
+      "months": "4"
+    },
+    {
+      "value": "15.41",
+      "code": "vt",
+      "years": "15",
+      "months": "5"
+    },
+    {
+      "value": "15.16",
+      "code": "ct",
+      "years": "15",
+      "months": "2"
+    },
+    {
+      "value": "15.33",
+      "code": "nh",
+      "years": "15",
+      "months": "4"
+    },
+    {
+      "value": "15.67",
+      "code": "me",
+      "years": "15",
+      "months": "8"
+    },
+    {
+      "value": "15.83",
+      "code": "wa",
+      "years": "15",
+      "months": "10"
+    },
+    {
+      "value": "16",
+      "code": "nj",
+      "years": "16",
+      "months": "0"
+    },
+    {
+      "value": "16",
+      "code": "ri",
+      "years": "16",
+      "months": "0"
+    },
+    {
+      "value": "17",
+      "code": "az",
+      "years": "17",
+      "months": "0"
+    },
+    {
+      "value": "17.08",
+      "code": "de",
+      "years": "17",
+      "months": "1"
+    },
+    {
+      "value": "17.33",
+      "code": "mt",
+      "years": "17",
+      "months": "3"
+    },
+    {
+      "value": "17.41",
+      "code": "ut",
+      "years": "17",
+      "months": "5"
+    },
+    {
+      "value": "17.41",
+      "code": "nv",
+      "years": "17",
+      "months": "5"
+    },
+    {
+      "value": "17.67",
+      "code": "co",
+      "years": "17",
+      "months": "8"
+    },
+    {
+      "value": "17.67",
+      "code": "fl",
+      "years": "17",
+      "months": "8"
+    },
+    {
+      "value": "17.67",
+      "code": "va",
+      "years": "17",
+      "months": "8"
+    },
+    {
+      "value": "18.25",
+      "code": "id",
+      "years": "18",
+      "months": "3"
+    },
+    {
+      "value": "18.67",
+      "code": "pa",
+      "years": "18",
+      "months": "8"
+    },
+    {
+      "value": "18.83",
+      "code": "nd",
+      "years": "18",
+      "months": "10"
+    },
+    {
+      "value": "19.08",
+      "code": "nc",
+      "years": "19",
+      "months": "1"
+    },
+    {
+      "value": "19.33",
+      "code": "sc",
+      "years": "19",
+      "months": "4"
+    },
+    {
+      "value": "19.08",
+      "code": "sd",
+      "years": "19",
+      "months": "1"
+    },
+    {
+      "value": "18.75",
+      "code": "mn",
+      "years": "18",
+      "months": "9"
+    },
+    {
+      "value": "19.08",
+      "code": "wi",
+      "years": "19",
+      "months": "1"
+    },
+    {
+      "value": "19.41",
+      "code": "nm",
+      "years": "19",
+      "months": "5"
+    },
+    {
+      "value": " 19.62",
+      "code": "la",
+      "years": "19",
+      "months": "7"
+    },
+    {
+      "value": "19.5",
+      "code": "ky",
+      "years": "19",
+      "months": "6"
+    },
+    {
+      "value": "19.83",
+      "code": "tx",
+      "years": "19",
+      "months": "10"
+    },
+    {
+      "value": "19.91",
+      "code": "il",
+      "years": "19",
+      "months": "11"
+    },
+    {
+      "value": "20.25",
+      "code": "mi",
+      "years": "20",
+      "months": "3"
+    },
+    {
+      "value": "19.41",
+      "code": "wy",
+      "years": "19",
+      "months": "5"
+    },
+    {
+      "value": "19.91",
+      "code": "ne",
+      "years": "19",
+      "months": "11"
+    },
+    {
+      "value": "20.25",
+      "code": "ar",
+      "years": "20",
+      "months": "3"
+    },
+    {
+      "value": "20.41",
+      "code": "tn",
+      "years": "20",
+      "months": "5"
+    },
+    {
+      "value": "20.75",
+      "code": "in",
+      "years": "20",
+      "months": "9"
+    },
+    {
+      "value": "20.16",
+      "code": "mo",
+      "years": "20",
+      "months": "2"
+    },
+    {
+      "value": "20.16",
+      "code": "wv",
+      "years": "20",
+      "months": "2"
+    },
+    {
+      "value": "20.08",
+      "code": "oh",
+      "years": "20",
+      "months": "1"
+    },
+    {
+      "value": "20.75",
+      "code": "ga",
+      "years": "20",
+      "months": "9"
+    },
+    {
+      "value": "20.75",
+      "code": "ia",
+      "years": "20",
+      "months": "9"
+    },
+    {
+      "value": "21.41",
+      "code": "ks",
+      "years": "21",
+      "months": "5"
+    },
+    {
+      "value": "20.91",
+      "code": "al",
+      "years": "20",
+      "months": "11"
+    },
+    {
+      "value": "21.58",
+      "code": "ok",
+      "years": "21",
+      "months": "7"
+    },
+    {
+      "value": "22",
+      "code": "ms",
+      "years": "22",
+      "months": "0"
     }
    ]
    
