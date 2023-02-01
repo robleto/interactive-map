@@ -1,203 +1,203 @@
 [
- {
-   "value": "10",
-   "code": "hi"
- },
- {
-   "value": " 11.75",
-   "code": "ny"
- },
- {
-   "value": " 12.75",
-   "code": "ca"
- },
- {
-   "value": " 13.58",
-   "code": "ma"
- },
- {
-   "value": " 14.08",
-   "code": "ak"
- },
- {
-   "value": " 14.16",
-   "code": "md"
- },
- 
- {
-   "value": " 14.33",
-   "code": "or"
- },
- {
-   "value": " 15.41",
-   "code": "vt"
- },
- {
-   "value": " 15.16",
-   "code": "ct"
- },
- {
-   "value": " 15.33",
-   "code": "nh"
- },
- {
-   "value": " 15.67",
-   "code": "me"
- },
- {
-   "value": " 15.83",
-   "code": "wa"
- },
- {
-   "value": " 16",
-   "code": "nj"
- },
- {
-   "value": " 16",
-   "code": "ri"
- },
- {
-   "value": " 17",
-   "code": "az"
- },
- {
-   "value": " 17.08",
-   "code": "de"
- },
- {
-   "value": " 17.33",
-   "code": "mt"
- },
- {
-   "value": " 17.41",
-   "code": "ut"
- },
- {
-   "value": " 17.41",
-   "code": "nv"
- },
- {
-   "value": " 17.67",
-   "code": "co"
- },
- {
-   "value": " 17.67",
-   "code": "fl"
- },
- {
-   "value": " 17.67",
-   "code": "vq"
- },
- {
-   "value": " 18.25",
-   "code": "id"
- },
- {
-   "value": " 18.67",
-   "code": "pa"
- },
- {
-   "value": " 18.83",
-   "code": "nd"
- },
- {
-   "value": " 19.08",
-   "code": "nc"
- },
- {
-   "value": " 19.33",
-   "code": "sc"
- },
- {
-   "value": " 19.08",
-   "code": "sd"
- },
- {
-   "value": " 18.75",
-   "code": "mn"
- },
- {
-   "value": " 19.08",
-   "code": "wi"
- },
- {
-   "value": " 19.41",
-   "code": "nm"
- },
- {
-   "value": " 19.62",
-   "code": "la"
- },
- {
-   "value": " 19.5",
-   "code": "ky"
- },
- {
-   "value": " 19.83",
-   "code": "tx"
- },
- {
-   "value": " 19.91",
-   "code": "il"
- },
- {
-   "value": " 20.25",
-   "code": "mi"
- },
- {
-   "value": " 19.41",
-   "code": "wy"
- },
- {
-   "value": " 19.91",
-   "code": "ne"
- },
- {
-   "value": " 20.25",
-   "code": "ar"
- },
- {
-   "value": " 20.41",
-   "code": "tn"
- },
- {
-   "value": " 20.75",
-   "code": "in"
- },
- {
-   "value": " 20.16",
-   "code": "mo"
- },
- {
-   "value": " 20.16",
-   "code": "wv"
- },
- {
-   "value": " 20.08",
-   "code": "oh"
- },
- {
-   "value": " 20.75",
-   "code": "ga"
- },
- {
-   "value": " 20.75",
-   "code": "ia"
- },
- {
-   "value": " 21.41",
-   "code": "ks”
- },
- {
-   "value": " 20.91",
-   "code": "al"
- },
- {
-   "value": " 21.58",
-   "code": "ok"
- },
- {
-   "value": "22",
-   "code": "ms"
- }
-]
+    {
+      "value": "10",
+      "code": "hi"
+    },
+    {
+      "value": "11.75",
+      "code": "ny"
+    },
+    {
+      "value": "12.75",
+      "code": "ca"
+    },
+    {
+      "value": "13.58",
+      "code": "ma"
+    },
+    {
+      "value": "14.08",
+      "code": "ak"
+    },
+    {
+      "value": "14.16",
+      "code": "md"
+    },
+    {
+      "value": "14.33",
+      "code": "or"
+    },
+    {
+      "value": "15.41",
+      "code": "vt"
+    },
+    {
+      "value": "15.16",
+      "code": "ct"
+    },
+    {
+      "value": "15.33",
+      "code": "nh"
+    },
+    {
+      "value": "15.67",
+      "code": "me"
+    },
+    {
+      "value": "15.83",
+      "code": "wa"
+    },
+    {
+      "value": "16",
+      "code": "nj"
+    },
+    {
+      "value": "16",
+      "code": "ri"
+    },
+    {
+      "value": "17",
+      "code": "az"
+    },
+    {
+      "value": "17.08",
+      "code": "de"
+    },
+    {
+      "value": "17.33",
+      "code": "mt"
+    },
+    {
+      "value": "17.41",
+      "code": "ut"
+    },
+    {
+      "value": "17.41",
+      "code": "nv"
+    },
+    {
+      "value": "17.67",
+      "code": "co"
+    },
+    {
+      "value": "17.67",
+      "code": "fl"
+    },
+    {
+      "value": "17.67",
+      "code": "vq"
+    },
+    {
+      "value": "18.25",
+      "code": "id"
+    },
+    {
+      "value": "18.67",
+      "code": "pa"
+    },
+    {
+      "value": "18.83",
+      "code": "nd"
+    },
+    {
+      "value": "19.08",
+      "code": "nc"
+    },
+    {
+      "value": "19.33",
+      "code": "sc"
+    },
+    {
+      "value": "19.08",
+      "code": "sd"
+    },
+    {
+      "value": "18.75",
+      "code": "mn"
+    },
+    {
+      "value": "19.08",
+      "code": "wi"
+    },
+    {
+      "value": "19.41",
+      "code": "nm"
+    },
+    {
+      "value": " 19.62",
+      "code": "la"
+    },
+    {
+      "value": "19.5",
+      "code": "ky"
+    },
+    {
+      "value": "19.83",
+      "code": "tx"
+    },
+    {
+      "value": "19.91",
+      "code": "il"
+    },
+    {
+      "value": "20.25",
+      "code": "mi"
+    },
+    {
+      "value": "19.41",
+      "code": "wy"
+    },
+    {
+      "value": "19.91",
+      "code": "ne"
+    },
+    {
+      "value": "20.25",
+      "code": "ar"
+    },
+    {
+      "value": "20.41",
+      "code": "tn"
+    },
+    {
+      "value": "20.75",
+      "code": "in"
+    },
+    {
+      "value": "20.16",
+      "code": "mo"
+    },
+    {
+      "value": "20.16",
+      "code": "wv"
+    },
+    {
+      "value": "20.08",
+      "code": "oh"
+    },
+    {
+      "value": "20.75",
+      "code": "ga"
+    },
+    {
+      "value": "20.75",
+      "code": "ia"
+    },
+    {
+      "value": "21.41",
+      "code": "ks"
+    },
+    {
+      "value": "20.91",
+      "code": "al"
+    },
+    {
+      "value": "21.58",
+      "code": "ok"
+    },
+    {
+      "value": "22",
+      "code": "ms"
+    }
+   ]
+   
