@@ -3,6 +3,27 @@
    "value": "10",
    "code": "hi"
  },
+ 
+ {
+   "value": " 11.75",
+   "code": "ny"
+ },
+ {
+   "value": " 12.75",
+   "code": "ca"
+ },
+ {
+   "value": " 13.58",
+   "code": "ma"
+ },
+ {
+   "value": " 14.08",
+   "code": "ak"
+ },
+ {
+   "value": " 14.16",
+   "code": "md"
+ },
  {
    "value": "22",
    "code": "ms"
